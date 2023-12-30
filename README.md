@@ -1,3 +1,10 @@
+Here are Few Screenshots of my Running application made with React Native and usage of Async Storage.
+![ss_1](https://github.com/devsri01/Mobile_Dev_Plena/assets/77187663/1cb589f8-4865-48e7-8f38-505392853165)
+![ss_2](https://github.com/devsri01/Mobile_Dev_Plena/assets/77187663/94a6efa9-2989-4db9-bb5d-39e1ec1f4bff)
+![ss_3](https://github.com/devsri01/Mobile_Dev_Plena/assets/77187663/adc86a91-bd55-4f89-8a40-8c0cd949a3d4)
+![ss_4](https://github.com/devsri01/Mobile_Dev_Plena/assets/77187663/5b41c8f6-4d75-4908-87f0-39963c9958b5)
+![ss_5](https://github.com/devsri01/Mobile_Dev_Plena/assets/77187663/1f6a1312-5013-451f-b9ca-a7efabd29b6b)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
